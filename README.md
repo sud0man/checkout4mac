@@ -5,7 +5,9 @@ Just in analysing the system logs and files access dates with bash commands (lik
 Proof of Concept in Python, CheckOut4Mac, has been developed in order to automate the search and identify malicious activities from 3 questions:
 
 When did you leave your hotel room eg ? : 22/6
+
 At what time did you leave your hotel room ? eg: 22
+
 How long time did you leave your hotel room ? eg: 2
 
 Readme : http://sud0man.blogspot.fr/2016/10/new-version-of-checkout4mac-02.html
