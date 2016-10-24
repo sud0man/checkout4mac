@@ -8,4 +8,4 @@ When did you leave your hotel room eg ? : 22/6
 At what time did you leave your hotel room ? eg: 22
 How long time did you leave your hotel room ? eg: 2
 
-Readme : https://docs.google.com/file/d/0B_oq7opm7im8ZUFQbThhSGEwT3c
+Readme : http://sud0man.blogspot.fr/2016/10/new-version-of-checkout4mac-02.html
